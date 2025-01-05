@@ -1,7 +1,7 @@
 {
   "name": "stejskytom/visual-paginator",
   "type": "library",
-  "description": "Visual paginator for Nette Framework",
+  "description": "Visual paginator for Nette Framework for PHP 8",
   "keywords": [
     "nette",
     "ipub",
